@@ -1,11 +1,17 @@
-import { initializeApp, cert, getApps } from 'firebase-admin/app';
-import { getFirestore } from 'firebase-admin/firestore';
-import serviceAccount from '../firebase/firebaseConfig.json'; // ✅ Points to your downloaded service account JSON
+// utils/firebaseAdmin.js
 
-const app = getApps().length === 0
-  ? initializeApp({
-      credential: cert(serviceAccount),
-    })
-  : getApps()[0];
+import admin from 'firebase-admin';
 
-export const db = getFirestore(app); // ✅ This gives you admin access to Firestore
+if (!admin.apps.length) {
+  admin.initializeApp({
+    credential: admin.credential.cert({
+      projectId: process.env.FIREBASE_PROJECT_ID,
+      clientEmail: process.env.FIREBASE_CLIENT_EMAIL,
+      privateKey: process.env.FIREBASE_PRIVATE_KEY?.replace(/\\n/g, '\n'),
+    }),
+  });
+}
+
+const db = admin.firestore();
+
+export { admin, db };

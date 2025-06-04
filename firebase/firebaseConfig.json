@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "email-reminderz",
+    "private_key_id": "db9f9f442ba431c2639c45968b2216364a8b7366",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDyDQfVXfT934NE\niMGUsshmoviih10tYTygwK2+cHIyw7zCGEr6eSgCthMN1C7a0s6amfvVwz7hXxks\ntx5U5ChGnj59douw7oydW6hCC1mNV79vDABd7FKNJvNKkuVSzY6tAUwnopexmdFM\nP242Fzo++bSSoCEcmZ+TL4uq34h7FmruZfH2e8l3aUdbLfg4e7Nyd4xX1yncM02k\nALG1u9VcnQdsrHOTCeG3q3wQpvX3yg/FuFaDxMU0ldNBy+OusaZ+akqiAsrLFPpw\ntzueBxclgKXZ8DHaxUrUASUH/U3HT2cK1OYyn8JDGNwQYbaY/yP9wZ0tei50w2Fz\nnteZ9JetAgMBAAECggEAChZjb2+3PFZSjuphIOyTf/2GPaXFCxVclLl69C8U/0sb\nhH5FL6uZcIV8hUzEuB9ld1l3/phguD1BnBS0maaZjBnfslRcrX6/kvZFLJ1y+bpA\nsuTN5hwpc5L+PCsjjgAdlFWzwgobZs4phBM3qV7t8T5wWVT9lEbNuPFYEYK32iNI\nCMOZ9UNcj0QeNoxSRcsCp6eHuK6cWjPPZoBJjPmn7g921ZqhEW+wXv3OcvkWxbMR\nILqWe7XZ+BM7bqAvWh7H6clFpDC+0OofokH3QcMbyAMT1/qCDWdi4EmsUSTPuQMG\nPxhilNyWfD7fRLdyAq805OUfgTf9MHY8VPYt9sHHIQKBgQD9BBqGMoTXD2Y+Uy/3\nchPUa4cXFqsGdoZOP0YqfOKVgmf0fpm31q0tUkOAex4H+bhgkc5kDOwwLoBHwmEI\nIOCyOplGmTcq2Plk6KQjan91NeJQ2VK3KdMpvCedQY1rQJV+k504+q4wOxrYJsoC\nMv5afZCEeGfTL7nbata4dcdDTQKBgQD059JNDuUtobWdw97mxxUKzpcZHx4HV7Hc\nqShH+gG56la7nTYHrKNlJ2kc8wDni3/PUw8RWAA8jK9a6Xw/IwuaQSC3aeMIgo0i\nKTvjnu79Pbty36LXp/oX8CyEuP+J39Ea/5UP3qBkJH/geWa1oNJcJ7uFiurPo9oj\nk25D17G14QKBgARb0r0nF6TAzikas8PWgkLxi0U5jb6xwgSNEH9g4WJj+bh7idhh\n6V/Tf/gxpsXKZoO7X0vX8SWvV2RlE9jZACXx3nwZ3ZpuXHWBkHpPtlxljj2IUOV4\n4fthE2mhHHeRiEHC9z1pDCEmk4LPwEEjccBLU3cEv/0iYFhIUeShmsotAoGAQmxp\nxoqmsASvDJYma7NNSrwTkTW2YElxrSaYDUWKmFEtqv8Nu3Egc/wHb1mdQi+8v4+I\ng6y5i7KgkOjI0RsBN5o4dGactB8shjpmyuq9aSQIJjTvpswhccKrYGgIru1seoUd\necto9yBLKqfiqppu053XJ3YxD5YiQQnomy/yPCECgYEAsxMqS3/x+nM+u8wOzQ55\nY54/1csw0J6x1EZoYY2FBKiJ5bhpR2NghSn6ClgEF+2fKKNYKQ8F+3qQl7Mzaktd\nNfoyrGms9nRZwBsmadJYjpwG7L0s5aSTLlSM7W3sms0D86xBGiirX9r1Ny2KjK34\n1ZUPQ618TGi6RDqRvHYsVa8=\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-fbsvc@email-reminderz.iam.gserviceaccount.com",
+    "client_id": "112276281074870634833",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40email-reminderz.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
